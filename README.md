@@ -1,5 +1,4 @@
 # PKPM_PostProcessing
-python script for pkpm
 功能介绍
 功能一：提取pkpm结果文件至文本文件并将层间位移角转换为数值
 功能二：提取最大基底剪力从而选波
